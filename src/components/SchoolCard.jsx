@@ -8,11 +8,13 @@ const SchoolCard = ({ school }) => {
         alt={school.name}
         className="h-56 w-56 object-cover rounded mb-2 mx-auto"
       />
-      <h2 className="text-xl font-semibold mb-1">{school.name}</h2>
-      <p className="text-sm text-gray-600">{school.governorate}</p>
+      <h2 className="text-xl font-semibold mb-1  text-[#48cae4]">
+        {school.name}
+      </h2>
+      <p className="text-sm text-[#cbd5e1]">{school.governorate}</p>
       <Link
         to={`/school/${school.id}`}
-        className="text-blue-600 mt-2 inline-block"
+        className="text-[#5eead4] mt-2 inline-block"
       >
         عرض التفاصيل
       </Link>

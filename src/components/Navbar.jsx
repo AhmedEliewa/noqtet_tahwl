@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import logo from "/logo.png";
+import logo from "/logo.jpeg";
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
 
