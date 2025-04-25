@@ -6,7 +6,7 @@ const SearchBar = ({ searchText, setSearchText }) => {
         placeholder="ابحث عن المدرسة بالاسم ..."
         value={searchText}
         onChange={(e) => setSearchText(e.target.value)}
-        className="p-2 rounded border w-full max-w-md"
+        className="p-2 rounded border w-full max-w-md bg-transparent text-white"
       />
     </div>
   );

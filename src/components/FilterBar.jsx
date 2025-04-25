@@ -21,6 +21,9 @@ const FilterBar = ({ selectedGovernorate, setSelectedGovernorate }) => {
     "مطروح",
     "الاقصر",
     "قنا",
+    "سوهاج",
+    "بورسعيد",
+    "السويس",
     "الوادي الجديد",
     "بني سويف",
   ];
@@ -30,7 +33,7 @@ const FilterBar = ({ selectedGovernorate, setSelectedGovernorate }) => {
       <select
         value={selectedGovernorate}
         onChange={(e) => setSelectedGovernorate(e.target.value)}
-        className="p-2 rounded border"
+        className="p-2 rounded border max-w-md"
       >
         <option value="">كل المحافظات</option>
         {governorates.map((gov) => (

@@ -7,7 +7,7 @@ const Welcome = () => {
       transition={{ duration: 0.5 }}
       className="mb-20 bg-[#053860] text-[#f1f5f9] py-16 px-6 rounded-xl shadow-lg text-center max-w-3xl mx-auto mt-10"
     >
-      <h1 className="text-4xl md:text-5xl font-extrabold text-[#48cae4] mb-4">
+      <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-4">
         أهلاً وسهلاً بكم
       </h1>
       <p className="text-lg md:text-xl text-[#cbd5e1] leading-relaxed">

@@ -76,7 +76,7 @@ const schools = [
     phone: "",
     website: "https://www.facebook.com/share/17zxCqbubJ",
     image_url:
-      "https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-6/244233018_4337900886300382_3972799551740196139_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eUzlzrXW0r4Q7kNvwE8XEJC&_nc_oc=AdnLTK_crnGqZh_apQCqrpzz3wR-A6GIBXis6DNGwSfAmu7UsDR_qNuNGUQT8Z-Fgl8&_nc_zt=23&_nc_ht=scontent.fcai20-6.fna&_nc_gid=8VxkJc_3Pmk6PWoZTYyoUA&oh=00_AfEWqV3p4URpD_Xfjjg0PeRB6aOcor1b0THqp7XHVBmfzg&oe=680C592D",
+      "https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-6/244233018_4337900886300382_3972799551740196139_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=3_ARsXzNgqoQ7kNvwFkTXbd&_nc_oc=AdlCAG_yyb0xnFM8F5nOPWDOvaIUX2uVGpLRLZD025iYsNYHULjQnK46Hg-PskzRAaQ&_nc_zt=23&_nc_ht=scontent.fcai20-6.fna&_nc_gid=uk9vuIGYH6hJo0pUasnjeQ&oh=00_AfElvY7pC9uMqhj0EAPm-rQQUfUMAyinpMWVXFtQ_B84cg&oe=6810BE2D",
     map_link: "https://maps.app.goo.gl/N6vEScQqZv7M8TR56?g_st=aw",
     description:
       "  من اهم المدارس الفنيه على مستوى الجمهوريه هي مؤسسة تعليمية متخصصة في تدريب الطلاب على صيانة وتشغيل المعدات الثقيلة، مع التركيز على الجانب العسكري",
@@ -124,9 +124,10 @@ const schools = [
     governorate: "الإسماعيلية",
     specialization: ["تجاره اثاث", "زغف واعلان", "زغف واعلان"],
     phone: "",
-    website: "https://www.facebook.com/share/17zxCqbubJ",
+    website:
+      "https://www.facebook.com/p/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B2%D8%AE%D8%B1%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A8%D9%86%D9%8A%D9%86-100054470680428/?locale=ar_AR",
     image_url:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkKqlVMCUOzlYlY3kftRX7bIkwMpCFoZq5w&s",
+      "https://scontent.fcai20-2.fna.fbcdn.net/v/t39.30808-1/302439975_623419162817101_6697364974693727006_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=8RI9ixufWhIQ7kNvwF-HwlI&_nc_oc=AdkR_j2zfTpU6hIXxVKETXB-ZJzSO7kvPCvbAvAkr9qe_6BFZ5xvzPjYk4GDlQO5i0M&_nc_zt=24&_nc_ht=scontent.fcai20-2.fna&_nc_gid=CyaiJlARGcD_BFIIklfsTw&oh=00_AfF90JC1S27I-6WCTEgNKma5sFNs-o5rnLfIdl0Pz1VyjA&oe=6810C685",
     map_link: "https://maps.app.goo.gl/pEhhQ3HKY7dZox3X9?g_st=aw",
     description: "",
   },
@@ -965,7 +966,7 @@ const schools = [
     phone: "",
     website: "https://www.facebook.com/share/1B8oWvg4v7/",
     image_url:
-      "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/485644078_644643788321111_371746253481506175_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=h-loMV3mOa8Q7kNvwEkbA1N&_nc_oc=AdlPHMgsFao3SL0pQ39-NxPqR2gWFWw9gPMcQa0A78UJlyTaZoba2hR-Uj7WoM4X8R0&_nc_zt=23&_nc_ht=scontent.fcai20-1.fna&_nc_gid=bsEkB-6eiCbMWK3h5VbbMg&oh=00_AfGAVGmUwIlVqIklgD8iHJllHMo6YeBNc71OxgidLvvlpQ&oe=680D4E50",
+      "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/485644078_644643788321111_371746253481506175_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=NlZ_UeQCpA4Q7kNvwGxIpTB&_nc_oc=AdmI6SMLCmrGJhirVj4Lco1eSbVLG0EYH3kEkgBrTTY4eqC5BUDcV9gkOTRhTdhoBBM&_nc_zt=23&_nc_ht=scontent.fcai20-1.fna&_nc_gid=-ESh1jxVWwlPPPNo2x9nlw&oh=00_AfGzOd1QICGPpm2RL5J9JoKQGoDEm_8-eiYbyMXDp0i9Vg&oe=6810D250",
     map_link: "",
     description: "",
   },
@@ -1516,19 +1517,23 @@ const schools = [
   {
     id: 95,
     name: `
-مدرسة الميدان الثانوية الصناعية للبنات`,
+مدرسة مبارك كول السويس  الثانوية الفنية للتعليم والتدريب المزدوج
+`,
     address: "شارع عمر مكرم، ساقية مكي، المنيب، الجيزة",
-    governorate: "الجيزة",
+    governorate: "السويس",
     specialization: [
-      `صناعي عام
+      `  الالكترونيات الصناعية، الفني الإداري، التبريد والتكييف، صيانة وإصلاح السيارات، التركيبات الكهربائيه، ميكانيكا( صيانة وإصلاح)، ميكانيكا تركيبات، تشغيل ماكينات بلاستيك، الطباعة، سمكرة ودوكو، نجارة الاساس، المنسوجات، الصناعات الغذائية، الملابس الجاهزة
 `,
     ],
-    phone: "",
-    website: "",
+    phone: "01121502147",
+    website:
+      " https://www.facebook.com/groups/mobark.cool.in.suez/?ref=share&mibextid=NSMWBT",
     image_url:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyA9KiCAoJXDJk3Tm9CHNbFSUnUm2dUAe2jA&s",
+      "https://scontent.fcai20-3.fna.fbcdn.net/v/t39.30808-6/454003312_6773331622791781_9173746650638960648_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2285d6&_nc_ohc=oeC1JzONHEgQ7kNvwHTcbuZ&_nc_oc=Adm6fWA3Hvz3h8Y18s1NiUA5lflvw-X4aUyv72FrAQgFSbrG5k2gId_cVskzUQUwAQg&_nc_zt=23&_nc_ht=scontent.fcai20-3.fna&_nc_gid=nQYKyIZPEJvI53XFqW11Lg&oh=00_AfEMD_f6PFDouN-McFSYYMqDLC8JGVZPOdcp-vEZwmJvBQ&oe=6810A221",
     map_link: "",
-    description: ``,
+    description: `تختلف التخصصات من محافظة للثانية حسب احتياجات السوق المحلي 
+اهم المحافظات اللي فيها فروع لمدرسة مبارك كول:
+القاهره، الجيزة، الإسكندرية، الشرقية، الدقهلية، المنيا، دمياط، الفيوم، الاسماعيلية، بورسعيد، اسيوط`,
   },
   {
     id: 96,
@@ -1957,18 +1962,19 @@ const schools = [
   },
   {
     id: 121,
-    name: `مدرسة قويسنا الثانوية الصناعية بنين
+    name: `   مدرسه البنك الاهلي للتكنولوجيا التطبيقيه للصناعات الميكانيكيه والكهربائيه 
 `,
-    address: "مركز قويسنا.",
-    governorate: "المنوفية",
+    address: " .",
+    governorate: "",
     specialization: [
       `كهرباء، ميكانيكا.
  `,
     ],
     phone: "",
-    website: "",
+    website:
+      "https://www.facebook.com/profile.php?id=61553397107281&mibextid=kFxxJD",
     image_url:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiQXIsCNK8PZ7iEETIe-7nmhh4BKkZONyu6g&s",
+      "https://scontent.fcai20-2.fna.fbcdn.net/v/t39.30808-1/403615380_122107674854113236_1953902208279476107_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=NornFL3O-qUQ7kNvwHVuGny&_nc_oc=AdlT3ZDOgq_HIOqsKtX50JxAgXzCOnOvFf9dU9WtLjpP2LxTqbu6IHIo47iNCiepBww&_nc_zt=24&_nc_ht=scontent.fcai20-2.fna&_nc_gid=ELuGep0iNckDF4F0461HAQ&oh=00_AfHjNaZMnm-lINtkvYC_NDswyXQsoWd4l-dI8TOyb1CCGg&oe=6810CC9A",
     map_link: "",
     description: ``,
   },
@@ -2097,20 +2103,21 @@ const schools = [
   },
   {
     id: 129,
-    name: `مدرسة إيفر جرو الدولية للتكنولوجيا التطبيقية`,
-    address: "المنطقة 13، مدينة السادات، محافظة المنوفية.",
-    governorate: "المنوفية",
+    name: `مدرسه تأهيل`,
+    address:
+      "21 Ahmed Oraby Street, El Nahda Tower Mohandessine, Giza, Egypt, Giza, Egypt",
+    governorate: "الجيزة",
     specialization: [
       `تشغيل وصيانة معدات الصناعات الثقيلة المتطورة.
 
  `,
     ],
     phone: "",
-    website: "",
+    website: "https://www.facebook.com/empoweredbytaheal?mibextid=kFxxJD",
     image_url:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1qsenblVwdifilQhxjq8fofZuVFGq5SkMw&s",
+      "https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-1/324190332_1290759531500660_6762923807810742675_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1_APW2pOKoIQ7kNvwFglI__&_nc_oc=AdkciLVjs3qjTCmrnIfO-_WmaFSTJT1-6tXEhsjjIuNUwu6Jv_HtjoaleHm6ScOUWQk&_nc_zt=24&_nc_ht=scontent.fcai20-6.fna&_nc_gid=cGvBdf13FP5WkG6Xq-Lw8w&oh=00_AfERjGEoXtesqxzyU1xAUL2HfUMunRepqGaYGbpCLdOb1g&oe=6810CF42",
     map_link: "",
-    description: ``,
+    description: ` تاهيل لتنميه مهارات التميز هي اول شركه مصريه متخصصه في مجال التعليم الفني والتدريب المهني لتاهيل وتطوير القوى العامله المصريه`,
   },
   {
     id: 130,
@@ -4062,6 +4069,560 @@ const schools = [
     website: "https://www.facebook.com/smnud.sc.bo/?locale=ar_AR",
     image_url:
       "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-1/360101102_656117879878742_5488349172606359831_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=nyeF0vowoGQQ7kNvwFPJ8DA&_nc_oc=Adn6IWj7eRSSgpCcZk5GdZPNAHmy4G61v2EPP8qGFQmMvKHLESHUusBEoB1a6eo96-0&_nc_zt=24&_nc_ht=scontent.fcai20-1.fna&_nc_gid=T3m_0KXW9aGINooGyFJD0A&oh=00_AfFwFFOa60tFUgGx7-YbC9X7hAn-W8_0xi4pXPVgHG7o_w&oe=680ED56C",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 229,
+    name: `   مدرسة We للتكنولوجيا التطبيقية في الإسماعيلية
+`,
+    address: `   في المنطقة الخامسة ، بجوار مجمع هاله أبو زيد
+
+  `,
+    governorate: "الإسماعيلية",
+    specialization: [
+      `الاتصالات
+شبكات أمن المعلومات
+وتطوير المواقع والبرمجيات.
+     `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/share/1ABydsANKx/",
+    image_url:
+      "https://scontent.fcai20-3.fna.fbcdn.net/v/t39.30808-1/254703982_109572444871158_1735240021513276497_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=zFXBxqe7EIUQ7kNvwFTbXoA&_nc_oc=AdlFZgXD2i1EeTvWBOIAmPXX7ihPOdlAH0UfZmKWxndijxoRg5bocLPn1ORPrV6SdFo&_nc_zt=24&_nc_ht=scontent.fcai20-3.fna&_nc_gid=QgtXHkNlOFcEXFISeF-_Bg&oh=00_AfEX77cVHPnGSaXvbhsuO-hOsQfRgPaT5voYg6_kzF0IpA&oe=6810990F",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 230,
+    name: `   مدرسة بنها الثانوية الميكانيكية العسكرية بنين
+`,
+    address: `   شارع الرياح التوفيقي ، عزية الزراعة ، بنها القليوبيه
+
+  `,
+    governorate: "القليوبية",
+    specialization: [
+      `الميكانيكا العامة 
+الكهرباء الصناعية 
+التبريد و التكييف
+التشغيل والتشكيل
+اللحام والحدادة
+     `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/groups/415067858593510/",
+    image_url:
+      "https://scontent.fcai20-6.fna.fbcdn.net/v/t1.6435-9/89505841_2755742617837191_7049894795807817728_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=2285d6&_nc_ohc=s4P_UbJrGyUQ7kNvwGVelhE&_nc_oc=Adk7Ad38Wu4cDl7BCODV1ZMe-7W8yq02i65DjAaceoj2gCDCqGXbONC_q_Y_SRmzMbA&_nc_zt=23&_nc_ht=scontent.fcai20-6.fna&_nc_gid=2ZSMKhBUFIgZ7ahKv21tqw&oh=00_AfHbQooxTQhk30MsAqpqMyCAUp3JaBzqRhsRQQ6KyXMz-A&oe=68325A32",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 231,
+    name: `مدرسه BEDO
+  `,
+    address: `
+Lot 36, 4th Industrial Zone, 6th October City, Giza, Egypt, Industrial Zone, Egypt
+
+    `,
+    governorate: "الجيزة",
+    specialization: [
+      `
+       `,
+    ],
+    phone: "01067399352",
+    website: "https://www.facebook.com/Bedoegsocial?mibextid=kFxxJD",
+    image_url:
+      "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-1/300827861_424255699768042_6694309089317852725_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=qyiPyM1MpXMQ7kNvwGQ2grl&_nc_oc=Adk4_OEKr-x8jPpLmz22JEhXofX3aIXtrMq83DWV9QB5xcfB6iY0sAZWMpw-_pu1LcQ&_nc_zt=24&_nc_ht=scontent.fcai20-1.fna&_nc_gid=2tZ-8oZmtuPDer86iZovKg&oh=00_AfEJUY217LzMmFUDHCrkDk-UED7yH3pMUjvT_cFQsJ_HPQ&oe=6810BB98",
+    map_link: "",
+    description: `The first international factory for manufacturing educational laboratories in Egypt`,
+  },
+  {
+    id: 232,
+    name: `مدرسه BEDO
+  `,
+    address: `
+Lot 36, 4th Industrial Zone, 6th October City, Giza, Egypt, Industrial Zone, Egypt
+
+    `,
+    governorate: "القاهرة",
+    specialization: [
+      `
+       `,
+    ],
+    phone: "01067399352",
+    website: "https://www.facebook.com/Bedoegsocial?mibextid=kFxxJD",
+    image_url:
+      "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-1/300827861_424255699768042_6694309089317852725_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=qyiPyM1MpXMQ7kNvwGQ2grl&_nc_oc=Adk4_OEKr-x8jPpLmz22JEhXofX3aIXtrMq83DWV9QB5xcfB6iY0sAZWMpw-_pu1LcQ&_nc_zt=24&_nc_ht=scontent.fcai20-1.fna&_nc_gid=2tZ-8oZmtuPDer86iZovKg&oh=00_AfEJUY217LzMmFUDHCrkDk-UED7yH3pMUjvT_cFQsJ_HPQ&oe=6810BB98",
+    map_link: "",
+    description: `The first international factory for manufacturing educational laboratories in Egypt`,
+  },
+  {
+    id: 233,
+    name: `مدرسة السويس الثانوية الزخرفية الصناعية بنين
+  `,
+    address: `شارع النبي موسي، الأنصاري، حي الأربعين،
+
+    `,
+    governorate: "السويس",
+    specialization: [
+      `تقدم المدرسة تخصصات في مجالات الزخرفة والصناعات الفنية مع التركيز علي التعليم الفني التطبيقي
+       `,
+    ],
+    phone: "",
+    website:
+      "https://www.facebook.com/groups/532490777550921/?ref=share&mibextid=NSMWBT",
+    image_url:
+      "https://scontent.fcai20-6.fna.fbcdn.net/v/t1.6435-9/70393196_118901646157763_1028375123834437632_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2285d6&_nc_ohc=KBq_-7_ogNQQ7kNvwEumd93&_nc_oc=AdmUHKsgnF4uFgg03uMECd7vBYWrizaF3EWN8NBoW4WmpV6KR1UAYjD0Ny-S05kKZmk&_nc_zt=23&_nc_ht=scontent.fcai20-6.fna&_nc_gid=-_WeCvN1yLjUg_5nYYX8VQ&oh=00_AfGt2_pa3APjJrYWh9QfM3CT5irCmeMLTyIXV5BGjH7SOQ&oe=68326529",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 234,
+    name: `مدرسة ريادة للتكنولوجيا التطبيقية – بورسعيد
+  `,
+    address: `قرية بحر البقر، جنوب بورسعيد، بجوار قسم شرطة الجنوب.
+
+    `,
+    governorate: "بورسعيد",
+    specialization: [
+      `تكنولوجيا إنتاج وتصنيع الالبان
+       `,
+    ],
+    phone: "",
+    website: " https://www.facebook.com/share/g/16LFPkjTns/?mibextid=wwXIfr￼ ￼",
+    image_url:
+      "https://scontent.fcai20-3.fna.fbcdn.net/v/t39.30808-6/321381639_564227685519699_5573480406051609769_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=2285d6&_nc_ohc=AC_h3x6781wQ7kNvwHzrJdf&_nc_oc=AdmdQL8q_OAyopyFLm2o8fyceDTVpWVYu9VOfukUywR2hJQsLYFV-bYRKauiQbvxYAM&_nc_zt=23&_nc_ht=scontent.fcai20-3.fna&_nc_gid=lOcYfBtpfcGEQebrQQEkew&oh=00_AfF2x5o4uHTcHUZnmLdHS0PfEKRfOCdQhJhTQ4oYDWQFuQ&oe=68109EEA",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 235,
+    name: `مدرسة ظهر للتكنولوجيا التطبيقية – بورسعيد
+  `,
+    address: `حي المناخ، شمال بورسعيد.
+
+    `,
+    governorate: "بورسعيد",
+    specialization: [
+      `نظم تكنولوجيا المعلومات والشبكات.
+	•	تشغيل وصيانة معدات الطاقة.
+	•	الصيانة الكهربائية.
+	•	اللوجستيات.
+	•	صيانة وإصلاح السيارات.
+	•	الصيانة
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/groups/175222512250135/?mibextid=wwXIfr",
+    image_url:
+      "https://scontent.fcai20-5.fna.fbcdn.net/v/t39.30808-6/480492459_1345933116409909_3150568500675925387_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2285d6&_nc_ohc=yF7Yw0euNCMQ7kNvwHqaryT&_nc_oc=AdntkbuY_FhXN_Zx-iP2uz3lsn2RTMxWHUL8PVtyLb6ckTpI6WJxywqeA0SldwU1AZA&_nc_zt=23&_nc_ht=scontent.fcai20-5.fna&_nc_gid=kRtV9kfZT0zwgZL4W2PR4Q&oh=00_AfEZCIU62irXrCk-_0SfScTcYxf3Z8LBgrYyn8AQeClotw&oe=6810A957",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 236,
+    name: `المدرسة الفنية التكنولوجية الصناعية العسكرية المتقدمة
+  `,
+    address: `منطقة السيدة خديجه ، طريق الشاحنات خلف مجمع علي سليمان التعليمي ، جنوب بورسعيد
+
+    `,
+    governorate: "بورسعيد",
+    specialization: [
+      `البترول 
+البتروكيماويات
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/share/1BjKhiukty/",
+    image_url:
+      "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-1/363353505_115924164924049_5481946715933226618_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=4DyOT6Pz3mcQ7kNvwFrFL3y&_nc_oc=AdnOSkrhZ3_jyVR5Iz635vG8_PU595yyznXu6mluJ0LSUNC0yJpkDmDbh_3ZqMHpMz8&_nc_zt=24&_nc_ht=scontent.fcai20-1.fna&_nc_gid=IHyX3-ZgVU0PY_R3qjjMGQ&oh=00_AfHLbsmm7Ka5fYDvutQsYTr-y11_RNlFHI4K1uvbrWG2kA&oe=6810CDE9",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 237,
+    name: `مدرسة بورسعيد الثانوية الفندقية
+  `,
+    address: `حي الضواحي بمحافظة بورسعيد وتحديدا في شارع عبدالحليم محمود
+
+    `,
+    governorate: "بورسعيد",
+    specialization: [
+      `فني مضيف : يركز على تدريب الطلاب على مهارات الضيافه وخدمة العملاء في الفنادق والمطاعم 
+فني طاهي : تعليم فنون الطهي وإعداد المأكولات ، مع التركيز على المهارات العملية في المطبخ
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/share/12GtHK6owVy/",
+    image_url:
+      "https://scontent.fcai20-3.fna.fbcdn.net/v/t39.30808-1/460333167_1026490255939505_8003598282844757881_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=t6UoSAYPlskQ7kNvwEB_Xtx&_nc_oc=AdlIdfYarj_B3qm21xXoLak3NmbPmdvOfpQzfxOKPNxITjk2Gpnpirb2JnxABa3y-UU&_nc_zt=24&_nc_ht=scontent.fcai20-3.fna&_nc_gid=aQrGOIQ_G5kXnWVoS9MMXg&oh=00_AfGw2Ls61IdW-U1AijnUdYnX_HIlWUeA-CJMTuqRqU92mg&oe=6810CB28",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 238,
+    name: `مدرسة التعاونيات الثانوية الصناعية بنات بالسويس
+  `,
+    address: `شمال السويس، محافظة السويس، مصر
+
+    `,
+    governorate: "السويس",
+    specialization: [
+      `1. الحاسبات وتكنولوجيا المعلومات
+دراسة البرمجة، أنظمة التشغيل، وصيانة اجهزة الحاسب 
+تأهيل لسوق العمل في مجالات الدعم الفني وتكنولوجيا المعلومات.
+2. الإلكترونيات الصناعية
+دراسة الدوائر الإلكترونية، التحكم الآلي، والأنظمة الرقمية.
+تدريب عملي على الأجهزة الحديثة.
+3. الملابس الجاهزة
+تصميم وتنفيذ الأزياء.
+تدريب على ماكينات الخياطة والإنتاج.
+4. الزخرفة والإعلان
+فنون الرسم والتصميم اليدوي والرقمي.
+دراسة مواد الطباعة، والتصميم الإعلاني.
+5. التطريز اليدوي والماكينات (قد يتوفر حسب الحاجة)
+
+       `,
+    ],
+    phone: "",
+    website: " https://www.facebook.com/share/18iNDMnEfv/",
+    image_url:
+      "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-1/343420952_164938899848036_4407358384108404109_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=47elf9T2PY4Q7kNvwFUYR-D&_nc_oc=AdnsmBKW6izbl_8ULm_8G2c-2eFeMNMu_mzuiBz1OlQTGMqGJcg164P2zr8VMmt7GSw&_nc_zt=24&_nc_ht=scontent.fcai20-1.fna&_nc_gid=lMdqP2K99VKkNZpImF0haQ&oh=00_AfFmMZvK4YEtl7CY_FpuTGCCTlmhgUFqCv8MBu7gwRkquQ&oe=6810D486",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 239,
+    name: `مدرسة السويس الثانوية للصناعات البحرية العسكرية
+  `,
+    address: `شارع الكورنيش، مدينة السويس، محافظة السويس، مصر
+
+    `,
+    governorate: "",
+    specialization: [
+      `الملاحة البحرية، الفنون البحرية، الثروة السمكية
+       `,
+    ],
+    phone: "",
+    website:
+      " https://www.facebook.com/groups/2216667545053333/?ref=share&mibextid=NSMWBT",
+    image_url:
+      "https://scontent.fcai20-5.fna.fbcdn.net/v/t1.6435-9/166439145_3785407758160952_8880591627393924485_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=2285d6&_nc_ohc=nznzDPDDavQQ7kNvwGtI3NS&_nc_oc=AdkqvgKkyc72ftBu5xgMK2CZzVpc67EiSA9QPMo6soIpWGsG6AWYtUP89tkIytLtz0s&_nc_zt=23&_nc_ht=scontent.fcai20-5.fna&_nc_gid=4Vigr9u2zkazNJRD9bzkdg&oh=00_AfHdgrimZ-T4g2MK8DyP7JrYrd-36VWrZ3vaEYmoXbcVHQ&oe=68326F7C",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 240,
+    name: `المدرسة الثانوية الفنية للحاسب الآلي والإلكترونيات
+  `,
+    address: `مركز بيلا محافظه كفر الشيخ داخل مبني مجمع تكنولوجيا المعلومات
+
+    `,
+    governorate: "كفر الشيخ",
+    specialization: [
+      `  الحاسب الالي والالكترونيات
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/itakfs2030?mibextid=ZbWKwL",
+    image_url:
+      "https://scontent.fcai20-2.fna.fbcdn.net/v/t39.30808-1/275287557_1066636847275616_3198722964869844428_n.jpg?stp=c7.0.614.614a_dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=99R_XKiAHYgQ7kNvwGeY26E&_nc_oc=Adn7aqmSIL9ZuziDEtm9eKgZkOzX5ahVNBmFXkSx4_Y3JKn1qsbG2IevnOVve0GT5JU&_nc_zt=24&_nc_ht=scontent.fcai20-2.fna&_nc_gid=P4KHKgZjUoXvcvC56inD6Q&oh=00_AfHyU_BrK8Mj-qX9xwqM6rpny4P7Fwg5WEDR_TskKmF2dg&oe=6810CDDC",
+    map_link: "",
+    description: `مدرسه معتمده ويحق لخريجيها القيد في سجيلات نقابه التطبيقيين  وتقدم برامج تعليميه متخصصه في مجالات الحاسب الالي والالكترونيات`,
+  },
+  {
+    id: 241,
+    name: `مدرسة الطاقة الشمسية (الرمل الثانوية بنات)
+  `,
+    address: `شارع ابن مرزوق، فلمنج، قسم أول الرمل، الإسكندرية.
+
+    `,
+    governorate: "الإسكندرية",
+    specialization: [
+      `تكنولوجيا الطاقة الشمسية
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/groups/2183625695064140/?locale=ar_AR",
+    image_url:
+      "https://scontent.fcai20-2.fna.fbcdn.net/v/t1.6435-9/105491355_1562486850622769_6683554141651122934_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2285d6&_nc_ohc=yeP2EbKzzg8Q7kNvwHdpt-N&_nc_oc=AdmUnvDblSK7Z9Hb54JAwtrNBLPBoGNJdNGsPfvzB8cWHIjM0RRrrTtjva9lNUxcEB8&_nc_zt=23&_nc_ht=scontent.fcai20-2.fna&_nc_gid=TGdiBQ9ucJquykm1Ye6PUw&oh=00_AfFcel2Li4px7Ch2OzlSZvgOXxol3BJDH5FqECcj8I3WPQ&oe=68326BAA",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 242,
+    name: `مدرسة STEP
+  `,
+    address: `
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `الذكاء الاصطناعي 
+صناعة البلاستيك 
+الميكاترونيات
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/share/1YHbR5GRrK/",
+    image_url:
+      "https://scontent.fcai20-4.fna.fbcdn.net/v/t39.30808-1/363814338_169596016136677_6625091168072655248_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=du9s9D-l8BEQ7kNvwFKGmMH&_nc_oc=Adnkk4ZE1JVS1e4KShAXrZi3j-2d0xnaQa9-zm7rrAUSQta6sA1J9VSHoSVn5Omnz5k&_nc_zt=24&_nc_ht=scontent.fcai20-4.fna&_nc_gid=HLPyutpfADM34jqf83WLeQ&oh=00_AfH3iqYz6bGOgSLunjyxSLdQrbIgj3M1Px_rCp7-aY2k3A&oe=6810B0F7",
+    map_link: "",
+    description: `تعد مدرسة STEP  أول مدرسة تكنولوجيا تطبيقية في سوهاج
+تم إنشاؤها بالتعاون بين وزارة التربية والتعليم والتعليم الفني وشركة مصر العليا`,
+  },
+  {
+    id: 243,
+    name: `مدرسة البلينا الثانوية الصناعية بنين
+  `,
+    address: `البلينا،محافظة سوهاج، مصر
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `محركات سيارات و جرارات و آلات زراعيه
+تشكيل لخام و معادن 
+آلات كهربية و وقاية و تركيب و معدات 
+رسم فني ( الكترونيات ، و تبريد و تكييف الهواء ، نجارة و اثاث، أعمال بناء ، اعمال تشطيب )
+تخطيط و إدارة انتاج و صيانه و اصلاح 
+
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/share/1XoWmG6Bfd/",
+    image_url:
+      "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-1/302338604_445949137552183_3949459565216610723_n.jpg?stp=c351.0.1346.1346a_dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=7AyI767cOK4Q7kNvwEZdDud&_nc_oc=Adl1D5dSYDk1OoBprQUBjfMKA6qUAoC1Nna8TF2V9hU0mQoqxZ1qgGf289dM9qEOUls&_nc_zt=24&_nc_ht=scontent.fcai20-1.fna&_nc_gid=R18E1U_tqS88-RgOXrs9Iw&oh=00_AfGxtUkcKUXVzyalu8m6kllMY3d5GeW0zy7YtTUPCBDzrA&oe=6810C486",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 244,
+    name: `مدرسة البلينا الثانوية الصناعية بنات
+  `,
+    address: `البالينا ،محافظة سوهاج ، مصر
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `قسم ملابس و التريكو في الاقتصاد المنزلي و الانتاج
+       `,
+    ],
+    phone: "",
+    website:
+      "https://www.facebook.com/profile.php?id=100079199676299&rdid=wl9TbrR69lNVH9tn&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FRaPWMDcp%2F#",
+    image_url:
+      "https://scontent.fcai20-5.fna.fbcdn.net/v/t39.30808-1/299802127_153381560645166_4901575215112868641_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=jZdg0vMXF-wQ7kNvwHex1Xt&_nc_oc=AdlJX4Wj0HDNavq7KKCnpfuIFOiyKsNQU1ZeZ70p5B5zrREmpAX4lbqVIRATcSfyimQ&_nc_zt=24&_nc_ht=scontent.fcai20-5.fna&_nc_gid=YimPyRlBeu8B6vSIW95vng&oh=00_AfGS3s9P1E58PzYlZ6jXKJ25cDOl-bO4lVzk_NOJnotN0Q&oe=6810D77B",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 245,
+    name: `مدرسة دار السلام الثانوية الصناعية بنين
+  `,
+    address: `
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `تبريد 
+لحام
+ كهرباء
+زخرفة
+ مبادئ الرسم الفني
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/ElSalamSohSchool?mibextid=ZbWKwL",
+    image_url:
+      "https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-1/306165753_551478380110789_7518256565330124662_n.png?stp=dst-png_s200x200&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=wra2ZaHCMuoQ7kNvwFAJY86&_nc_oc=AdnsYaacmL9NIW-Pv_HDz1HRTbmzBd1KCvSwSjaKXRJjpp4B0q3ZcXUW05qJJlP1bag&_nc_zt=24&_nc_ht=scontent.fcai20-6.fna&_nc_gid=O9ZPsRStVj7uJHB4fu--Yg&oh=00_AfHN7337p3iyhA3J3D1SKwFtZQz5j8BCsnSp8N3o9TEN6A&oe=6810BEC9",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 246,
+    name: `مدرسة أولاد يحيى الثانوية الصناعية المشترك
+  `,
+    address: `الظهير الصحراوي لمحافظة سوهاج دار السلام
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `
+       `,
+    ],
+    phone: "01120360036",
+    website: "https://www.facebook.com/share/1EeMN6UW88/",
+    image_url:
+      "https://scontent.fcai20-3.fna.fbcdn.net/v/t39.30808-1/299438212_482481210549807_3243170127173010660_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Yxui1uIWYAsQ7kNvwG6c148&_nc_oc=AdmCCTeSJTEHAEy9Rt8I8ATNJDLtcRQAixH9XRyN2-j-0yBVQg2JkvaR1OqH6nUXbZY&_nc_zt=24&_nc_ht=scontent.fcai20-3.fna&_nc_gid=5FLiWTk6OeyP85DAOoq9Ew&oh=00_AfEfNXUcmdJJwn8c6AC_NaHPCd23RZp1lrRNcOH5Q2gqAQ&oe=6810B1ED",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 247,
+    name: `مدرسة المراغة الثانوية الصناعية بنين
+  `,
+    address: `المراغة ، مركز المراغة ، سوهاج 
+
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `📍تبريد و تكييف 
+📍آلات كهربية 
+📍شبكة مياة
+📍 الكترونيات 
+📍نجارة و اثاث
+📍زخرفه و ديكور
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/share/1EboPJeRbL/",
+    image_url:
+      "https://scontent.fcai20-2.fna.fbcdn.net/v/t39.30808-1/251526142_969031046982516_1192735721013535781_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=YOVV4KztPd0Q7kNvwEPHZrb&_nc_oc=AdkwE-vsiaSMb_wccJ68rRDkK314djhBdhJwsVaKx8IEJnHAh-SWY_eD5OGjGKja320&_nc_zt=24&_nc_ht=scontent.fcai20-2.fna&_nc_gid=N9pEBVm7xgEGEqxtaoMasQ&oh=00_AfFNOrarxuPEPGtsv15HL0Qn4CpEZA1ETS8ThCjj8QWgoQ&oe=6810BDC7",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 248,
+    name: `مدرسة البطاخ الثانوية الصناعية بنات
+  `,
+    address: `الطباخ ، مركز المراغة ، محافظة سوهاج
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `📍تريكو الالي 
+📍الملابس الجاهزة 
+📍لزخرفة و الاعلان و التنسيق 
+📍تركيب و معدات كهربائيه
+       `,
+    ],
+    phone: "",
+    website:
+      "https://www.facebook.com/groups/565253907249015/?ref=share&mibextid=NSMWBT",
+    image_url:
+      "https://scontent.fcai20-3.fna.fbcdn.net/v/t1.6435-9/70404450_2300630510249296_2449380708871831552_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=2285d6&_nc_ohc=NgfdlyL6mSAQ7kNvwEinWBM&_nc_oc=Adln42k_hDesY9Zcq-vfMmD1xBjHAwQp_kqUBNm0shHqom7idVMRjAU2PMY98pqM07I&_nc_zt=23&_nc_ht=scontent.fcai20-3.fna&_nc_gid=vLKKLQk9SE5wOQJmU6nw2Q&oh=00_AfFQVqcZf4OpOqocUPss5s9Yp9zEPaHxj3Dg6sYJY1ll4A&oe=6832535B",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 249,
+    name: `مدرسه سوهاج الزخرافيه العسكريه
+  `,
+    address: `سوهاج شارع الخولي
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `
+       `,
+    ],
+    phone: "",
+    website:
+      "https://www.facebook.com/groups/4924752534238201/?ref=share&mibextid=NSMWBT",
+    image_url:
+      "https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-6/370864240_6859852704064738_1786484141104397768_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2285d6&_nc_ohc=RLYdnpmIOB4Q7kNvwFKCH7u&_nc_oc=AdnsKw5HeKY6EJgWxwJHxwWefG8_y-ZPgMKhbmbC7d7Pzfbhhgf40-MJudw--GWtyHQ&_nc_zt=23&_nc_ht=scontent.fcai20-6.fna&_nc_gid=2S_TqyYyei0VVE6Q-uZxjQ&oh=00_AfE42cvRDzmKTHV12UEFhrZKrUdd5Y3eT356yZ2WQvEOuA&oe=6810B226",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 250,
+    name: `مدرسه جرجا الصناعيه الفنيه سوهاج
+  `,
+    address: `سوهاج شارع الساحه جرجا
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `
+       `,
+    ],
+    phone: "01000881827",
+    website: "https://www.facebook.com/share/19Mw2mf981",
+    image_url:
+      "https://scontent.fcai20-3.fna.fbcdn.net/v/t39.30808-1/293269763_129988573055306_4510212561648593723_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=15w8GnFDSU8Q7kNvwFallT2&_nc_oc=Adm_NpmRkL6k8T949V5pJe_wCxq119sx5MJeXmP7jrUVWyRFnNBCgr9J756WhP3Dxi0&_nc_zt=24&_nc_ht=scontent.fcai20-3.fna&_nc_gid=Dg13R67CrKlQlq99tqJzqQ&oh=00_AfGknfX_Zcmd6L7xyrE2ybdIbwk274WOarNxYtSdnV7Fjg&oe=6810BB31",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 251,
+    name: `مدرسة جهينة الثانوية الصناعية بنين
+  `,
+    address: `شارع ناصيف عياد محافظه سوهاج
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `📌قطع اثاث 
+📌 قسم كهربا
+       `,
+    ],
+    phone: "",
+    website:
+      "https://www.facebook.com/profile.php?id=100064643144675&rdid=mVD7hpbdqjdDFXnR&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HcA1HTgKb%2F#",
+    image_url:
+      "https://scontent.fcai20-4.fna.fbcdn.net/v/t39.30808-1/306171966_452476986917069_1881534299810442350_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=_lEFbNlhWRgQ7kNvwFYXVAh&_nc_oc=AdnNweSLOWHSghASzmu8Y4LkOsnJ5Oh2Nz1uzqiGKIKqOH19-Zjg51LiLCHHQX612Rg&_nc_zt=24&_nc_ht=scontent.fcai20-4.fna&_nc_gid=ZZ64eemXDky_Mc1L8Eh2Pg&oh=00_AfGqUP7bghFSTslVhEOWbH9Qf1NAUNjORMOyYQ218wnmbw&oe=6810C0B1",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 252,
+    name: `مدرسة جهينة الثانوية الصناعية بنات
+  `,
+    address: `شارع ناصيف عياد محافظه سوهاج
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `📌 زخرفه واعلان 
+📌 ملابس جاهزه
+       `,
+    ],
+    phone: "",
+    website:
+      "https://www.facebook.com/profile.php?id=100057362661548&rdid=xdIeLi5pE3Ejoov0&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HBvB1rpvQ%2F#",
+    image_url:
+      "https://scontent.fcai20-5.fna.fbcdn.net/v/t39.30808-1/302197866_548638033724947_8278782403834465435_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=jjqtCm4gudUQ7kNvwEndua3&_nc_oc=Adn9fFJtEA6DJTwiPqJbIvOra8eBiwqGxgBcHgChdlBy30w1kWjQvmG6L53UcJhNbIE&_nc_zt=24&_nc_ht=scontent.fcai20-5.fna&_nc_gid=WKKkX_cSemCgZcKMoamo3Q&oh=00_AfFQewnT19mz3LBHop_IzqE3FWXWWvjDjgiACEv3-Qnkyw&oe=6810D7DB",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 253,
+    name: `مدرسة طهطا الثانوية الصناعية بنين
+  `,
+    address: `مالطا البحري شطورة مركز طهطا محافظه سوهاج
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      `فيها مبنى الاداره 
+مبنى الزخرفة و الاعلان 
+مبنى الاعمال الصحيه القسم الصحي 
+مبنى الكهرباء اللي فيها الكهرباء و التبريد
+       `,
+    ],
+    phone: "",
+    website: "https://www.facebook.com/share/15QLiB9wAP/",
+    image_url:
+      "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-1/302766574_400589182185603_8165108544587537528_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=XWzDX2xqROUQ7kNvwEB9jJn&_nc_oc=AdkE-q7LSZpWo7T1vC0DD8LT2fmgOMgP4DWrfQLVtIINPyoW_-eJFGveh2Msp8ODh6c&_nc_zt=24&_nc_ht=scontent.fcai20-1.fna&_nc_gid=srnZArR4GONVKsfsGrrhCg&oh=00_AfHexC6621ZJ48FRiPs1kTQ-F84vZkxGEVIK977plwLnzg&oe=6810C023",
+    map_link: "",
+    description: ``,
+  },
+  {
+    id: 254,
+    name: `مدرسة بنه  الثانوية الالكترونيه بنات
+  `,
+    address: `طهطا، سوهاج
+
+    `,
+    governorate: "سوهاج",
+    specialization: [
+      ` الكترونيات و واجهزه
+       `,
+    ],
+    phone: "01118390699",
+    website: "https://www.facebook.com/share/18y5qduQbT/",
+    image_url:
+      "https://scontent.fcai20-5.fna.fbcdn.net/v/t39.30808-1/298722488_469205395212078_6975534325279551062_n.png?stp=c100.0.400.400a_dst-png_s200x200&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=5S2YTQZVVckQ7kNvwFro1kQ&_nc_oc=Adl7fK5mgEQu0d-hUhq32ii8um-uzlwDsvJqEpkCZXdrZoNypByzL6ARbTAM2oLQUHQ&_nc_zt=24&_nc_ht=scontent.fcai20-5.fna&_nc_gid=Mi2avQQsEB2A-AovFaN8Zw&oh=00_AfHoKJ_ldEbDzAXGQwJ8RidXAffoblIA42jBuH-5Ora9ig&oe=6810C0FC",
     map_link: "",
     description: ``,
   },

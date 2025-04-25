@@ -35,7 +35,7 @@ const Navbar = () => {
       <div
         className={`${
           isOpen ? "flex" : "hidden"
-        } sm:flex sm:justify-center sm:items-center text-base flex-col gap-5 sm:flex-row absolute sm:static top-full left-0 w-full sm:w-auto ${
+        } sm:flex sm:justify-center sm:items-center text-base flex-col gap-4 sm:flex-row absolute sm:static top-full left-0 w-full sm:w-auto ${
           isOpen
             ? "bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-500"
             : ""
@@ -62,9 +62,29 @@ const Navbar = () => {
         >
           تواصل معانا
         </Link>
+        <Link
+          to="/aims"
+          onClick={closeMenu}
+          className="hover:text-yellow-300 transition duration-300"
+        >
+          أهدافنا
+        </Link>
+        <Link
+          to="/mission"
+          onClick={closeMenu}
+          className="hover:text-yellow-300 transition duration-300"
+        >
+          رسالتنا
+        </Link>
+        <Link
+          to="/honors"
+          onClick={closeMenu}
+          className="hover:text-yellow-300 transition duration-300"
+        >
+          تكريماتنا
+        </Link>
       </div>
     </nav>
   );
 };
-
 export default Navbar;
