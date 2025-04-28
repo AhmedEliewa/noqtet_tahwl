@@ -12,12 +12,17 @@ const SchoolDetails = () => {
     window.scrollTo(0, 0);
   }, []);
 
-  if (!school)
+  if (!school) {
     return (
       <div className="text-center p-10 text-[#ef4444] font-bold">
         School not found
       </div>
     );
+  }
+
+  const handleBack = () => {
+    navigate(`/?gov=${school.governorate}&scrollToCards=true`);
+  };
 
   return (
     <motion.div
@@ -34,6 +39,7 @@ const SchoolDetails = () => {
         <img
           src={school.image_url}
           alt={school.name}
+          loading="lazy"
           className="w-full h-full object-cover rounded-xl transition-all"
         />
       </motion.div>
@@ -75,10 +81,11 @@ const SchoolDetails = () => {
         )}
         {school.website && (
           <p>
-            <strong className="text-[#f1f5f9]">لينك الفيسبوك:</strong>
+            <strong className="text-[#f1f5f9]">لينك الفيسبوك:</strong>{" "}
             <a
               href={school.website}
               target="_blank"
+              rel="noopener noreferrer"
               className="text-[#48cae4] underline mr-3"
             >
               {"..." + school.website.slice(0, 20)}
@@ -91,6 +98,7 @@ const SchoolDetails = () => {
             <a
               href={school.map_link}
               target="_blank"
+              rel="noopener noreferrer"
               className="text-[#48cae4] underline"
             >
               عرض على خرائط جوجل
@@ -100,7 +108,7 @@ const SchoolDetails = () => {
       </div>
 
       <motion.button
-        onClick={() => navigate(-1)}
+        onClick={handleBack}
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.9 }}
         className="mt-6 text-blue-400 text-lg font-semibold transition-all"

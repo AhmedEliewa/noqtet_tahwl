@@ -1,5 +1,6 @@
-import { useState } from "react";
+import { useSearchParams } from "react-router";
 import { motion } from "framer-motion";
+import { useState, useEffect, useRef } from "react";
 import schools from "../data/schoolsData";
 import SchoolCard from "../components/SchoolCard";
 import FilterBar from "../components/FilterBar";
@@ -32,9 +33,15 @@ const cardVariants = {
 };
 
 const HomePage = () => {
+  const [searchParams] = useSearchParams();
   const [searchText, setSearchText] = useState("");
-  const [selectedGovernorate, setSelectedGovernorate] = useState("");
-  const [selectedSpecialization, setSelectedSpecialization] = useState("");
+
+  // Ref for the school cards section
+  const schoolCardsRef = useRef(null);
+
+  const selectedGovernorate = searchParams.get("gov") || "";
+  const selectedSpecialization = searchParams.get("spec") || "";
+  const scrollToCards = searchParams.get("scrollToCards") === "true"; // Check if we need to scroll to the cards section
 
   const filteredSchools = schools.filter((school) => {
     return (
@@ -45,6 +52,13 @@ const HomePage = () => {
         school.specialization.includes(selectedSpecialization))
     );
   });
+
+  // Scroll to the school cards section when the page loads
+  useEffect(() => {
+    if (scrollToCards && schoolCardsRef.current) {
+      schoolCardsRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [scrollToCards]);
 
   return (
     <motion.div
@@ -59,24 +73,20 @@ const HomePage = () => {
       <motion.div variants={cardVariants}>
         <Slider />
       </motion.div>
-
       <motion.div variants={cardVariants}>
         <Header />
       </motion.div>
 
       <motion.div variants={cardVariants}>
         <SearchBar searchText={searchText} setSearchText={setSearchText} />
-        <FilterBar
-          selectedGovernorate={selectedGovernorate}
-          setSelectedGovernorate={setSelectedGovernorate}
-          selectedSpecialization={selectedSpecialization}
-          setSelectedSpecialization={setSelectedSpecialization}
-        />
+        <FilterBar />
       </motion.div>
 
+      {/* School Cards Section */}
       <motion.div
         variants={containerVariants}
-        className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4 mt-6"
+        ref={schoolCardsRef} // Attach the ref here
+        className="grid grid-cols-1 p-11 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4"
       >
         {filteredSchools.map((school) => (
           <div key={school.id}>
@@ -92,7 +102,7 @@ const HomePage = () => {
           transition={{ duration: 0.5 }}
           className="text-center text-gray-600 mt-10"
         >
-          No schools found.
+          لا توجد مدارس مطابقة.
         </motion.p>
       )}
 

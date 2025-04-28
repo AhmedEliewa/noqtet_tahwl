@@ -1,4 +1,9 @@
-const FilterBar = ({ selectedGovernorate, setSelectedGovernorate }) => {
+import { useSearchParams } from "react-router";
+
+const FilterBar = () => {
+  const [searchParams, setSearchParams] = useSearchParams();
+  const selectedGovernorate = searchParams.get("gov") || "";
+
   const governorates = [
     "الإسماعيلية",
     "القليوبية",
@@ -28,12 +33,22 @@ const FilterBar = ({ selectedGovernorate, setSelectedGovernorate }) => {
     "بني سويف",
   ];
 
+  const handleChange = (e) => {
+    const gov = e.target.value;
+    if (gov) {
+      searchParams.set("gov", gov);
+    } else {
+      searchParams.delete("gov");
+    }
+    setSearchParams(searchParams);
+  };
+
   return (
     <div className="flex flex-col sm:flex-row justify-center gap-4 mb-6">
       <select
         value={selectedGovernorate}
-        onChange={(e) => setSelectedGovernorate(e.target.value)}
-        className="p-2 rounded border max-w-md"
+        onChange={handleChange}
+        className="p-2 rounded border max-w-[170px] mx-auto"
       >
         <option value="">كل المحافظات</option>
         {governorates.map((gov) => (

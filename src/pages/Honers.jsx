@@ -56,12 +56,28 @@ const NewsMentions = () => {
   ];
 
   return (
-    <div className="w-full text-center ">
+    <div className="w-full text-center">
       <div className="text-white py-10 px-6 max-w-3xl mx-auto">
+        {/* Song Section */}
+        <h2 className="text-3xl font-bold mb-6 text-center">
+          🎶 استمع إلى أغنيتنا الخاصة بالمبادرة
+        </h2>
+        <div className="text-center mb-12">
+          <a
+            href="https://www.facebook.com/share/v/1EQGDApRiw/?mibextid=wwXIfr"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-[#ff6f61] text-white text-lg font-semibold py-3 px-6 rounded-full shadow-lg hover:bg-[#ff3b2e] transition-all duration-300"
+          >
+            استمع الآن على فيسبوك
+          </a>
+        </div>
+
+        {/* Articles Section */}
         <h2 className="text-3xl font-bold mb-10 text-center">
           الصحف التي تحدثت عن مبادرتنا
         </h2>
-        <div className="grid grid-cols-1  gap-6">
+        <div className="grid grid-cols-1 gap-6">
           {articles.map((article, index) => (
             <motion.a
               key={index}
