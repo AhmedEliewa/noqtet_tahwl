@@ -7,7 +7,8 @@ user engagement through smooth animations and responsive design.
 [Live Demo](https://noqtettahwl.netlify.app/)
 
 ## screenshots 
-<img src="" />
+<img src="./public/screenshots/home.jpg" width='450' />
+<img src="./public/screenshots/us.jpg" width='450' />
 
 ## 🧠 Overview
 The goal of this project was to build a modern educational website with a strong 
