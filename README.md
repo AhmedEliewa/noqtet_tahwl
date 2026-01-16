@@ -27,3 +27,11 @@ focus on UI/UX, responsiveness, and interactive animations.
 ## 📈 What I Learned
 - Improving user experience through animations
 - Building responsive layouts efficiently
+
+
+## Install dependencies    
+
+- npm install
+
+## Start development server
+- http://localhost:5173
